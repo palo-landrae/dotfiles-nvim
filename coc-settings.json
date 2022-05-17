@@ -1,0 +1,39 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "markdown",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "*.js",
+    "*.html",
+    "html",
+    "python"
+  ],
+  "suggest.completionItemKindLabels": {
+    "variable": " ",
+    "constant": " ",
+    "struct": "פּ ",
+    "class": "ﴯ ",
+    "interface": " ",
+    "text": " ",
+    "enum": " ",
+    "enumMember": " ",
+    "color": " ",
+    "property": "ﰠ ",
+    "field": "\uf93d",
+    "unit": "\uf475",
+    "file": "",
+    "value": "",
+    "event": "",
+    "folder": "\uf115",
+    "keyword": "",
+    "snippet": "\uf64d",
+    "operator": "",
+    "reference": "\uf87a",
+    "typeParameter": "",
+    "default": "\uf29c"
+  }
+}
